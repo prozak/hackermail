@@ -1,8 +1,8 @@
 HacKerMaiL
 ==========
 
-
 [![CI](.github/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
+[![Lint](.github/workflows/lint.yml/badge.svg)](.github/hackermail/actions/workflows/lint.yml)
 
 HacKerMaiL (hkml) is a mails management tool for hackers who collaborate using
 mailing lists.  It requires no complicated setup but just `git`.  Using it, you
