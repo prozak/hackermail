@@ -10,7 +10,7 @@ import hkml_cache
 
 '''
 A dict containing history of cache.  Saved as file.  Will be used for dim_old
-suggestion.  Keys are the json string of the list command argumetns.
+suggestion.  Keys are the json string of the list command arguments.
 Values are a dict containing below key/values.
 - 'create_dates': last up to ten created dates of same key
 '''
